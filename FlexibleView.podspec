@@ -2,10 +2,6 @@ Pod::Spec.new do |s|
   s.name             = "FlexibleView"
   s.version          = "1.0.0"
   s.summary          = "Flexible View."
-
-  s.description      = <<-DESC
-    Flexible View
-                       DESC
   s.homepage         = "http://github.com/octree/FlexibleView"
   s.license          = 'MIT'
   s.author           = { "Octree" => "fouljz@gmail.com" }
