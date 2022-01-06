@@ -17,6 +17,18 @@ tags.forEach {
 }
 ```
 
+## Installation
+
+### Swift Package Manager
+* File > Swift Packages > Add Package Dependency
+* Add https://github.com/octree/FlexibleView.git
+* Select "Up to Next Major" with "1.0.0"
+
+### CocoaPods
+
+```ruby
+pod 'FlexibleView'
+```
 
 
 ## License
